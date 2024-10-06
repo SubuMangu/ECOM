@@ -1,0 +1,86 @@
+- Basics of ecommerce
+- Scope of B2B,B2C and Business Processes
+- Traditional commerce vs Ecommerce
+- Categories of ecommerce
+    - Business Processes
+- Framework of ecommerce(Reliable networked infrastructure,info,transaction)
+- Elements of ecommerce
+- Protocols
+    - rules for success of internet
+    - Types of protocols
+        - TCP/IP
+        - Emails
+        - SMTP/POP
+        - IMAP
+        - MIME
+- Web Server
+    - 2 tier web server
+        - request message
+        - response message
+    - 3 tier web server
+    - n tier web server
+- Web Server software
+- Ecommerce Software
+    - imp factors(short question)
+    - basic features(long question)
+- Security threats to ecommerce
+    - Types of security threats
+        - physical and logical
+    - threat
+    - counter measure
+    - eavesdropper(imp)
+    - hacker(imp)
+    - Categories of security threats
+- Security policies
+    - meaning
+    - elements of security policies
+- Intellectual property threats
+    - Intellectual property meaning
+    - cybersquatting
+    - namechanging
+    - namestealing
+- Threat to security of client computer
+    - Active content
+    - cookie
+    - web bug
+    - steganography
+- Threats to communication channels/internet
+    - Secrecy threats
+        - Sniffers's program
+        - Backdoor
+    - Integrity threats
+        - Cybervandalism
+        -  Masquerading/Spoofing
+    - Necessity Threat
+- Threats to security of server computer
+    - Web Server threat
+        - bug
+    - Database threats
+        - malware
+        - excessive priviledge
+        - exploration of vulnerable data
+    - CGI Threats
+- Protection of client computers using Digital certificate(imp)
+    - elements of digital certificate
+- client security in internet explorer
+- Protecting comminication channel
+    - encryption program
+    - encryption algorithm
+    - Techniques(imp)
+        - Hashcoding
+        - Symmetric encryption
+        - Asymmetric encryption
+- Protecting web server
+    - Access control and authentication
+    - Firewall(imp)
+        - Packet filtered firewall
+    - Gateway servers
+    - Proxy servers
+- Revenue model(imp)
+    - advertising rm
+    - subscription rm
+    - transaction fee rm
+    - sales rm
+    - affiliate rm
+- Strategies to grow ecommerce revenue(imp)
+- Marketing on the web(imp)
