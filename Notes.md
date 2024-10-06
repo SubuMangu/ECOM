@@ -3,12 +3,15 @@
 - Business-to-business (B2B) e-commerce is greater than business-to-customer (B2C) e-commerce because it require more no of orders.
 Ex,Whole buys it's product in bulk to retailers.But retailers could able sell only a subset of product they received from wholesaler.
 - Business procesess has larger scope than B2C and B2B combined, because they support both wholesalers and retailers.
+  
 <img src="Images/Screenshot 2024-10-05 203154.png" width="" height="">
 
 **Traditional commerce vs Ecommerce** 
+
 <img src="Images/Screenshot 2024-10-06 185102.png" width="" height="">
 
 **Categories of ecommerce**
+
 <img src="Images/Screenshot 2024-10-05 203805.png" width="" height="">
 
 - Framework of ecommerce(pg 108,Ecom2)
